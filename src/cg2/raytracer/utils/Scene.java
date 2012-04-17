@@ -17,7 +17,7 @@ public class Scene {
 	}
 
 	public Hit intersect(Ray ray) {
-
+		
 		ArrayList<AbstractShape> sortedList = new ArrayList<AbstractShape>();
 
 		for (AbstractShape shapes : sortedList) {

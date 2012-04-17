@@ -20,4 +20,5 @@ public class Hit {
 	public Color getColor() {
 		return color;
 	}
+	// fsdfasdfdf
 }
